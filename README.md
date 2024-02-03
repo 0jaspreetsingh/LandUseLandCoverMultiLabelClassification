@@ -1,5 +1,23 @@
 # LandUseLandCoverMultiLabelClassification
 
+This repository contains the code for [INTER-REGION TRANSFER LEARNING FOR LAND USE LAND COVER CLASSIFICATION](https://isprs-annals.copernicus.org/articles/X-1-W1-2023/881/2023/) published in the *ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences*.
+
+## Citation
+
+If you find our work helpful, please consider citing our paper:
+
+```bibtex
+@Article{isprs-annals-X-1-W1-2023-881-2023,
+  AUTHOR = {Siddamsetty, J. and Stricker, M. and Charfuelan, M. and Nuske, M. and Dengel, A.},
+  TITLE = {INTER-REGION TRANSFER LEARNING FOR LAND USE LAND COVER CLASSIFICATION},
+  JOURNAL = {ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  VOLUME = {X-1/W1-2023},
+  YEAR = {2023},
+  PAGES = {881--888},
+  URL = {https://isprs-annals.copernicus.org/articles/X-1-W1-2023/881/2023/},
+  DOI = {10.5194/isprs-annals-X-1-W1-2023-881-2023}
+}
+```
 ## Motivation
 
 Regular observation of the earth to tackle some of the following problems:   
